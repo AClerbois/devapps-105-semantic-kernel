@@ -1,0 +1,9 @@
+[*.cs]
+
+# CS8604: Possible null reference argument.
+dotnet_diagnostic.CS8604.severity = none
+
+# SKEXP0070: Type is for evaluation purposes only and is subject to change or removal in future updates. Suppress this diagnostic to proceed.
+dotnet_diagnostic.SKEXP0070.severity = none
+dotnet_diagnostic.SKEXP0050.severity = none
+dotnet_diagnostic.SKEXP0040.severity = none
